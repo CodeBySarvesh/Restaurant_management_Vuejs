@@ -1,0 +1,19 @@
+# Node.js dependencies (if there are any in the root directory)
+/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# Environment files
+.env
+.env.local
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Other folders (db, other submodules, etc.)
+/db/
