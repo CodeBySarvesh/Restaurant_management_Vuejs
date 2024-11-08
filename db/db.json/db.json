@@ -1,0 +1,48 @@
+{
+  "user": [
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "sarvesh",
+      "email": "sarvesh@gmail.com",
+      "password": "sarvesh@123",
+      "id": 2
+    },
+    {
+      "name": "xyz",
+      "email": "xyz@gmail",
+      "password": "xyz22",
+      "id": 3
+    },
+    {
+      "name": "a",
+      "email": "a",
+      "password": "a",
+      "id": 4
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "dominos",
+      "address": "rpd,belgaum.",
+      "contact": "9865356",
+      "id": 4
+    },
+    {
+      "name": "adarsha palace",
+      "address": "belgaum",
+      "contact": "589976",
+      "id": 5
+    },
+    {
+      "name": "kfc",
+      "address": "tilakwadi",
+      "contact": "9865356",
+      "id": 6
+    }
+  ]
+}
